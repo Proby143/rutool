@@ -9,3 +9,7 @@ edition = "2018"
 # 系统硬件信息 For now it supports Linux, Mac OS X and Windows.
 # And now it can get information of kernel/cpu/memory/disk/load/hostname and so on.
 sys-info = "0.9"
+
+eframe = "0.13.0"
+egui_glium="0.13.0"
+
